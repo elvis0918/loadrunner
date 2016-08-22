@@ -19,6 +19,8 @@ public class Actions
 
 
 	public int action() throws Throwable {
+		////
+		//
 		int CoulumCount;
 		int RowCount;
 		String driver = "com.mysql.jdbc.Driver";
@@ -40,8 +42,8 @@ public class Actions
 //		CoulumCount = rsmd.getColumnCount();
 //		rs.last();
 //		RowCount = rs.getRow();
-//		System.out.println("½á¹û¼¯ÁÐÊý£º"+CoulumCount);
-//		System.out.println("½á¹û¼¯ÐÐÊý£º"+RowCount);
+//		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"+CoulumCount);
+//		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"+RowCount);
 //		rs.close();
 //		conn.close();
 		
